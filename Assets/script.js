@@ -90,7 +90,7 @@ var listOfHighScores = document.getElementById("listOfHighScores");
 var totalTime = 76;
 function newQuiz() {
     questionIndex = 0;
-    totalTime = 75;
+    totalTime = 78;
     timeLeft.textContent = totalTime;
     initialInput.textContent = "";
 
